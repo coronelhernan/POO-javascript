@@ -21,7 +21,6 @@ string.greet = function () {
 // Se ejecuta el método agregado dinámicamente
 console.log(string.greet());
 
-
 const yugiohCharacter = {
   name : 'Seto',
   lastname : 'Kaiba',
